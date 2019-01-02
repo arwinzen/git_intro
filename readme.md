@@ -18,3 +18,24 @@
 - git reset HEAD <file>
 
 # Ignoring files
+- create hidden .gitignore file
+- insert name of files that git should ignore
+- add and commit as per usual
+
+# Git Branches
+- Listing all branches
+* git branch
+
+- Adding a branch
+* git checkout -b <name of feature branch>
+
+- Changing branches
+* git checkout <name of branch>
+
+- Merging a branch
+
+- Removing a branch
+
+      0-----0-----0-----0 (side branch)
+      /
+0-----0-----0-----0-----0 (master branch)
