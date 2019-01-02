@@ -6,3 +6,13 @@
 
 # Repository
 - Where all our snapshots are stored (via git commit)
+
+# Adding multiple files of a certain type
+- git add *.<file extension>
+
+# Adding all files in the directory
+- git add .
+
+# Removing files
+
+# Ignoring files
