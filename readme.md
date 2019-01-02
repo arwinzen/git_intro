@@ -33,8 +33,10 @@
 * git checkout <name of branch>
 
 - Merging a branch
+* git merge <name of feature branch to be merged>
 
 - Removing a branch
+* git branch -d <name of branch to be removed>
 
       0-----0-----0-----0       (side branch)
       /
