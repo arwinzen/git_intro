@@ -36,6 +36,6 @@
 
 - Removing a branch
 
-      0-----0-----0-----0 (side branch)
+      0-----0-----0-----0       (side branch)
       /
-0-----0-----0-----0-----0 (master branch)
+0-----0-----0-----0-----0       (master branch)
