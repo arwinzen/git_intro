@@ -12,6 +12,7 @@
 
 # Adding all files in the directory
 - git add .
+- git add -A
 
 # Removing files
 
