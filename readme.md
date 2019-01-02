@@ -38,6 +38,12 @@
 - Removing a branch
 * git branch -d <name of branch to be removed>
 
+# Github
+- add remote repository
+* git remote add origin https://github.com/arwinzen/git_intro.git
+* git remote -v
+* git push -u origin master
+
       0-----0-----0-----0       (side branch)
       /
 0-----0-----0-----0-----0       (master branch)
