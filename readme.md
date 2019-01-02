@@ -15,5 +15,6 @@
 - git add -A
 
 # Removing files
+- git reset HEAD <file>
 
 # Ignoring files
